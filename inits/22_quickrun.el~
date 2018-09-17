@@ -1,0 +1,2 @@
+;; Execute script
+(define-key global-map (kbd "C-c r") 'quickrun)
